@@ -1,0 +1,1 @@
+# MCP-Inspector-v0.6.0
